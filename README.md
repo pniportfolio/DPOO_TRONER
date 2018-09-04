@@ -1,6 +1,6 @@
 # DPOO_TRONER
 
-Aquest projecte està relacionat amb l'assignatura Disseny i Programació Orientat a Objectes. Consisteix en un joc multijugador del popular joc online Troner. La carpeta programari conté dos projectes de Java, un és el client i l'altra el servidor. En el joc, els jugadors necesiten connectar-se al servidor per poder jugar amb altres jugadors. 
+Aquest projecte està relacionat amb l'assignatura Disseny i Programació Orientat a Objectes. Consisteix en un joc multijugador del popular joc online Troner. La carpeta Programari conté dos projectes de Java, un és el client i l'altra el servidor. En el joc, els jugadors necesiten connectar-se al servidor per poder jugar amb altres jugadors. 
 Les instruccions per el correcte funcionament de Troner son les seguents:
 1. Primerament instalarem el sistema gestor de bases de dades MySQL i en desactivem l'opció de "Safe Updates" situada a "Preferences -> SQL Editor.
 2. Un cop instalat, obrirem Mysql i executarem el arxiu BBDD.sql per tal de crear la base de dades necessaria.
